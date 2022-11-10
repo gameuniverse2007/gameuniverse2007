@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>
+			sobre mim
+		</title>
+	</head>
+	<body bgcolor="grey">
+		<header>
+			<h1> sobre mim </h1>
+		</header>
+		<nav>
+			<b>menu</b>
+		</nav><hr>
+		<section>
+			meu nome é Vinícius Barbalho Candido eu amo jogar jorgos
+		</section>
+		<section>
+			(11) 94473-8380
+		</section>
+	</body>
+</html>
